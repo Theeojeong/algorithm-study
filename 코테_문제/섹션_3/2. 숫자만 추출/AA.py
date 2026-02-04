@@ -16,6 +16,11 @@ for i in x:
         num = num * 10 + int(i)
 print(num)
 
+cnt = 0
+
+
+
+
 
         
 
