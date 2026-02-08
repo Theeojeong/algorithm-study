@@ -4,10 +4,3 @@ import os
 BASE = os.path.dirname(__file__)
 sys.stdin = open(os.path.join(BASE, "in1.txt"), "rt")
 
-x = input()
-y = list(map(int, input().split()))
-z = input()
-k = list(map(int, input().split()))
-
-
-print(y)
